@@ -6,6 +6,10 @@ public class Emplyoee {
 	private int empDept;
 	private String empPass;
 
+	public Emplyoee() {
+
+	}
+
 	public int getEmpNumber() {
 		return empNumber;
 	}
