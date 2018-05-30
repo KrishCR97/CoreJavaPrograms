@@ -7,7 +7,7 @@ public class Emplyoee {
 	private String empPass;
 
 	public Emplyoee() {
-
+		
 	}
 
 	public int getEmpNumber() {
